@@ -5,10 +5,10 @@ List of terminologies for deeplearning
 ### Attention
 **Definition**: A mechanism or module where it tells the network where to look at  
 **Provenance**: https://arxiv.org/abs/1506.07503
-### End to End
-**Definition**: A network which accepts input from one end, and produces output at the other end. Opposite of "Pipeline"
+### End-to-End
+**Definition**: A network which accepts input from one end, and produces output at the other end. As opposed to "Pipeline"
 ### Pipeline
-**Definition**: When multiple models are trained independently and then combined into a pipeline
+**Definition**: When multiple models are trained independently and then combined into a pipeline. As opposed to "End-to-End"
 
 
 ## Computer Vision
