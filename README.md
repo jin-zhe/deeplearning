@@ -1,5 +1,5 @@
 # Deep Learning
-Quick referene glossary for terminologies used in deep learning.
+Quick reference glossary for terminologies used in deep learning.
 
 ## General
 
@@ -21,9 +21,9 @@ Quick referene glossary for terminologies used in deep learning.
 
 ### Cost / Loss / Objective Function
 **Definition**:
-* **Objective function** is the most general term for any function that you optimize during training. E.g. MLE is an objective function to maximize whereas a cost function is a objective function to minimize.
-* **Cost function** is a weighted sum of loss functions over your training set plus some model complexity penalty (regularization). If only one loss function is involved, then the cost function is the loss function.
-* **Loss function**: evaluates the penalty given the model's prediction when measured against the ground truth.
+* **Objective function**: The most general term for any function that you optimize during training. E.g. MLE is an objective function to maximize whereas a cost function is a objective function to minimize.
+* **Cost function**: A weighted sum of loss functions over your training set plus some model complexity penalty (regularization). If only one loss function is involved, then the cost function is the loss function.
+* **Loss function**: Evaluates the penalty given the model's prediction when measured against the ground truth.
 
 ### End-to-End
 **Definition**: A network which accepts input from one end, and produces output at the other end. As opposed to "Pipeline".
