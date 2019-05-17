@@ -1,4 +1,4 @@
-# Deep Learning
+# Deep Learning Glossary
 Quick reference glossary for terminologies used in deep learning.
 
 ## General
@@ -30,6 +30,9 @@ Quick reference glossary for terminologies used in deep learning.
 
 ### Epoch
 **Definition**: When the entire dataset underwent a forward pass followed by a backward pass in the network exactly once.
+
+### Fine-tuning
+**Definition**: Adapting a pre-trained model for a new task by using the pre-trained model parameters as the initializations for training on the new task.
 
 ### Gradient Descent
 **Definition**: An iterative optimization algorithm to find the local minima of an objective function.
