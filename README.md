@@ -7,7 +7,7 @@ Quick reference glossary for terminologies used in deep learning.
 **Definition**: Function which is applied over a neuron's inputs, adding a bias term and its output signifies how much the neuron should fire.
 
 ### Attention
-**Definition**: A mechanism or module where it tells the network where to look at.
+**Definition**: A mechanism or module where it tells the network where to look at.  
 **Provenance**: https://arxiv.org/abs/1506.07503
 
 ### Batch
