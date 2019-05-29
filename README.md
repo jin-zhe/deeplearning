@@ -43,6 +43,19 @@ Quick reference glossary for terminologies used in deep learning.
 ### Learning Rate / Step Size
 **Definition**: The size of each advancement for an iteration of gradient descent.
 
+### Normalization
+* **Batch Normalization (BatchNOrm, BN)**:
+  * Normalize hidden layer inputs to mini-batch mean & variance
+  * Reduces impact of earlier layers on later layers
+* **Batch Renormalization (BatchRenorm, BR)**:
+  * Fixes difference between training and inference by keeping a moving average asymptotically approaching a global Normalization
+* **Layer Normalization (LN)**:
+  * Conceived for RNNs
+* **Instance Normalizations (IN)**:
+  * Conceived for style transfer
+* **Group Normalization (GN)**:
+  * Conceived for CNNs
+
 ### Regression
 **Definition**: Task associated with predicting a continuous value/quantity
 
